@@ -13,3 +13,14 @@ A python game using python's random standard library.
     - **Randomized**: A game of pure luck where your number and your opponent's is randomized
     - **AI**: Play against the computer
     - **Multiplayer**: Play against a friend
+=======
+## Mini-Guide
+- **Modes**
+  - **AI** - Play against the computer
+  - **Multiplayer** - Play against a friend
+
+### How it works
+**AI Mode**
+First, it will prompt for your number. Your response will then be converted to an integer, then the AI will generate a random number between 1 and ten. Now, we comapare the two numbers and see which one is greater.
+
+**----WIP----**
